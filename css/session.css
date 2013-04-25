@@ -1,0 +1,13 @@
+ul#tag-cloud {
+    width: 700px;
+    padding: 8px;
+}
+
+ul#tag-cloud li {
+    list-style-type: none;
+    display: inline-block;
+    height: 80px;
+    margin: 6px 26px;
+    float: left;
+}
+
