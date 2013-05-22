@@ -2,7 +2,7 @@ $(function() {
     function generateTag(){
         $("<ul>").attr("id", "tag-cloud").appendTo("#tag-list");
 
-        var keywords = ['点击', '破坏', '黑盒', '白盒', '手动', '自动', '质量', 'QA', '测试用例', 'bug', '覆盖率'];
+        var keywords = ['点击', '破坏', '黑盒', '白盒', '手动', '自动', '质量', 'QA', '测试用例', 'bug'];
         var list = $('#tag-cloud'); 
         $.each(keywords, function(i)
         {
