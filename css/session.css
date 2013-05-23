@@ -39,4 +39,8 @@ ul#tag-cloud li {
     box-shadow: none;
 }
 
+.reveal .image {
+    float: left;
+}
+
     
